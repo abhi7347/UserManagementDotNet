@@ -1,0 +1,381 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Abhishekt Tiwari\\dotNet\\USERMANAGEMENT\\USERMANAGEMENT\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2D06725D-5E02-4C54-8D4F-92049D245D1E}|USERMANAGEMENT.csproj|d:\\abhishekt tiwari\\dotnet\\usermanagement\\usermanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2D06725D-5E02-4C54-8D4F-92049D245D1E}|USERMANAGEMENT.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\abhishek.tiwari\\Desktop\\dotNet\\USERMANAGEMENT\\RepositoryLayer\\UserLogin\\UserLogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D06725D-5E02-4C54-8D4F-92049D245D1E}|USERMANAGEMENT.csproj|d:\\abhishekt tiwari\\dotnet\\usermanagement\\usermanagement\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D06725D-5E02-4C54-8D4F-92049D245D1E}|USERMANAGEMENT.csproj|solutionrelative:controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D06725D-5E02-4C54-8D4F-92049D245D1E}|USERMANAGEMENT.csproj|d:\\abhishekt tiwari\\dotnet\\usermanagement\\usermanagement\\controllers\\manageusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D06725D-5E02-4C54-8D4F-92049D245D1E}|USERMANAGEMENT.csproj|solutionrelative:controllers\\manageusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\91734\\Desktop\\DotNet\\USERMANAGEMENT\\DomainLayer\\DTOs\\LoginDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\91734\\Desktop\\DotNet\\USERMANAGEMENT\\IServiceLayer\\UserLogin\\ILoginService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\91734\\Desktop\\DotNet\\USERMANAGEMENT\\IServiceLayer\\IManageUserService\\IMangeUserService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\91734\\Desktop\\DotNet\\USERMANAGEMENT\\RepositoryLayer\\MangeUserRepository\\ManageUserRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\91734\\Desktop\\DotNet\\USERMANAGEMENT\\ServiceLayer\\ManageUserService\\ManageUserService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\91734\\Desktop\\DotNet\\USERMANAGEMENT\\DomainLayer\\Models\\SDirectContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\abhishek.tiwari\\Desktop\\dotNet\\USERMANAGEMENT\\DomainLayer\\Models\\AbhiUser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\abhishek.tiwari\\Desktop\\dotNet\\USERMANAGEMENT\\DomainLayer\\DTOs\\ResetPasswordDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\abhishek.tiwari\\Desktop\\dotNet\\USERMANAGEMENT\\ServiceLayer\\LoginService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\abhishek.tiwari\\Desktop\\dotNet\\USERMANAGEMENT\\SharedLayer\\EmailSender\\IEmailService\\IEmailService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\abhishek.tiwari\\Desktop\\dotNet\\USERMANAGEMENT\\SharedLayer\\Templates\\ChangePasswordBody.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\abhishek.tiwari\\Desktop\\dotNet\\USERMANAGEMENT\\IRepositoryLayer\\UserLogin\\IUserLogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\abhishek.tiwari\\Desktop\\dotNet\\USERMANAGEMENT\\SharedLayer\\EmailSender\\EmailService\\EmailSerivice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\abhishek.tiwari\\Desktop\\dotNet\\USERMANAGEMENT\\DomainLayer\\DTOs\\LoginDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\abhishek.tiwari\\Desktop\\dotNet\\USERMANAGEMENT\\SharedLayer\\EncryptionShare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\abhishek.tiwari\\Desktop\\dotNet\\USERMANAGEMENT\\ServiceLayer\\TokenService\\TokenService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\abhishek.tiwari\\Desktop\\dotNet\\USERMANAGEMENT\\IServiceLayer\\IManageUserService\\IMangeUserService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\abhishek.tiwari\\Desktop\\dotNet\\USERMANAGEMENT\\RepositoryLayer\\MangeUserRepository\\ManageUserRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\abhishek.tiwari\\Desktop\\dotNet\\USERMANAGEMENT\\IRepositoryLayer\\IMangeUserRepository\\IManageUserRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\abhishek.tiwari\\Desktop\\dotNet\\USERMANAGEMENT\\ServiceLayer\\ManageUserService\\ManageUserService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\abhishek.tiwari\\Desktop\\dotNet\\USERMANAGEMENT\\DomainLayer\\DTOs\\ChangePassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\abhishek.tiwari\\Desktop\\dotNet\\USERMANAGEMENT\\DomainLayer\\Models\\SDirectContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AbhiUser.cs",
+              "DocumentMoniker": "C:\\Users\\abhishek.tiwari\\Desktop\\dotNet\\USERMANAGEMENT\\DomainLayer\\Models\\AbhiUser.cs",
+              "ToolTip": "C:\\Users\\abhishek.tiwari\\Desktop\\dotNet\\USERMANAGEMENT\\DomainLayer\\Models\\AbhiUser.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAewBkAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T06:11:06.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginDTO.cs",
+              "DocumentMoniker": "C:\\Users\\91734\\Desktop\\DotNet\\USERMANAGEMENT\\DomainLayer\\DTOs\\LoginDTO.cs",
+              "ToolTip": "C:\\Users\\91734\\Desktop\\DotNet\\USERMANAGEMENT\\DomainLayer\\DTOs\\LoginDTO.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T05:12:53.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ILoginService.cs",
+              "DocumentMoniker": "C:\\Users\\91734\\Desktop\\DotNet\\USERMANAGEMENT\\IServiceLayer\\UserLogin\\ILoginService.cs",
+              "ToolTip": "C:\\Users\\91734\\Desktop\\DotNet\\USERMANAGEMENT\\IServiceLayer\\UserLogin\\ILoginService.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T05:12:46.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IMangeUserService.cs",
+              "DocumentMoniker": "C:\\Users\\91734\\Desktop\\DotNet\\USERMANAGEMENT\\IServiceLayer\\IManageUserService\\IMangeUserService.cs",
+              "ToolTip": "C:\\Users\\91734\\Desktop\\DotNet\\USERMANAGEMENT\\IServiceLayer\\IManageUserService\\IMangeUserService.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T05:11:47.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ManageUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\91734\\Desktop\\DotNet\\USERMANAGEMENT\\RepositoryLayer\\MangeUserRepository\\ManageUserRepository.cs",
+              "ToolTip": "C:\\Users\\91734\\Desktop\\DotNet\\USERMANAGEMENT\\RepositoryLayer\\MangeUserRepository\\ManageUserRepository.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T05:06:33.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ManageUserService.cs",
+              "DocumentMoniker": "C:\\Users\\91734\\Desktop\\DotNet\\USERMANAGEMENT\\ServiceLayer\\ManageUserService\\ManageUserService.cs",
+              "ToolTip": "C:\\Users\\91734\\Desktop\\DotNet\\USERMANAGEMENT\\ServiceLayer\\ManageUserService\\ManageUserService.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T05:05:41.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SDirectContext.cs",
+              "DocumentMoniker": "C:\\Users\\91734\\Desktop\\DotNet\\USERMANAGEMENT\\DomainLayer\\Models\\SDirectContext.cs",
+              "ToolTip": "C:\\Users\\91734\\Desktop\\DotNet\\USERMANAGEMENT\\DomainLayer\\Models\\SDirectContext.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T04:01:51.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ResetPasswordDTO.cs",
+              "DocumentMoniker": "C:\\Users\\abhishek.tiwari\\Desktop\\dotNet\\USERMANAGEMENT\\DomainLayer\\DTOs\\ResetPasswordDTO.cs",
+              "ToolTip": "C:\\Users\\abhishek.tiwari\\Desktop\\dotNet\\USERMANAGEMENT\\DomainLayer\\DTOs\\ResetPasswordDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T07:46:53.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "D:\\Abhishekt Tiwari\\dotNet\\USERMANAGEMENT\\USERMANAGEMENT\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LoginController.cs",
+              "ToolTip": "D:\\Abhishekt Tiwari\\dotNet\\USERMANAGEMENT\\USERMANAGEMENT\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "Controllers\\LoginController.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAgwCgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T06:44:36.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Abhishekt Tiwari\\dotNet\\USERMANAGEMENT\\USERMANAGEMENT\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\Abhishekt Tiwari\\dotNet\\USERMANAGEMENT\\USERMANAGEMENT\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAYAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-01T16:11:08.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LoginService.cs",
+              "DocumentMoniker": "C:\\Users\\abhishek.tiwari\\Desktop\\dotNet\\USERMANAGEMENT\\ServiceLayer\\LoginService.cs",
+              "ToolTip": "C:\\Users\\abhishek.tiwari\\Desktop\\dotNet\\USERMANAGEMENT\\ServiceLayer\\LoginService.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAlwBQAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T07:40:21.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IEmailService.cs",
+              "DocumentMoniker": "C:\\Users\\abhishek.tiwari\\Desktop\\dotNet\\USERMANAGEMENT\\SharedLayer\\EmailSender\\IEmailService\\IEmailService.cs",
+              "ToolTip": "C:\\Users\\abhishek.tiwari\\Desktop\\dotNet\\USERMANAGEMENT\\SharedLayer\\EmailSender\\IEmailService\\IEmailService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T09:15:22.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ManageUserController.cs",
+              "DocumentMoniker": "D:\\Abhishekt Tiwari\\dotNet\\USERMANAGEMENT\\USERMANAGEMENT\\Controllers\\ManageUserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ManageUserController.cs",
+              "ToolTip": "D:\\Abhishekt Tiwari\\dotNet\\USERMANAGEMENT\\USERMANAGEMENT\\Controllers\\ManageUserController.cs",
+              "RelativeToolTip": "Controllers\\ManageUserController.cs",
+              "ViewState": "AQIAAGoAAAAAAAAAAAAUwDcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T03:48:38.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ChangePasswordBody.html",
+              "DocumentMoniker": "C:\\Users\\abhishek.tiwari\\Desktop\\dotNet\\USERMANAGEMENT\\SharedLayer\\Templates\\ChangePasswordBody.html",
+              "ToolTip": "C:\\Users\\abhishek.tiwari\\Desktop\\dotNet\\USERMANAGEMENT\\SharedLayer\\Templates\\ChangePasswordBody.html",
+              "ViewState": "AQIAAAEAAAAAAAAAAABBwAoAAABdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-08-02T08:36:41.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IUserLogin.cs",
+              "DocumentMoniker": "C:\\Users\\abhishek.tiwari\\Desktop\\dotNet\\USERMANAGEMENT\\IRepositoryLayer\\UserLogin\\IUserLogin.cs",
+              "ToolTip": "C:\\Users\\abhishek.tiwari\\Desktop\\dotNet\\USERMANAGEMENT\\IRepositoryLayer\\UserLogin\\IUserLogin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T08:42:57.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "EmailSerivice.cs",
+              "DocumentMoniker": "C:\\Users\\abhishek.tiwari\\Desktop\\dotNet\\USERMANAGEMENT\\SharedLayer\\EmailSender\\EmailService\\EmailSerivice.cs",
+              "ToolTip": "C:\\Users\\abhishek.tiwari\\Desktop\\dotNet\\USERMANAGEMENT\\SharedLayer\\EmailSender\\EmailService\\EmailSerivice.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAABRwCYAAABnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T09:17:45.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "LoginDTO.cs",
+              "DocumentMoniker": "C:\\Users\\abhishek.tiwari\\Desktop\\dotNet\\USERMANAGEMENT\\DomainLayer\\DTOs\\LoginDTO.cs",
+              "ToolTip": "C:\\Users\\abhishek.tiwari\\Desktop\\dotNet\\USERMANAGEMENT\\DomainLayer\\DTOs\\LoginDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T12:22:44.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserLogin.cs",
+              "DocumentMoniker": "C:\\Users\\abhishek.tiwari\\Desktop\\dotNet\\USERMANAGEMENT\\RepositoryLayer\\UserLogin\\UserLogin.cs",
+              "ToolTip": "C:\\Users\\abhishek.tiwari\\Desktop\\dotNet\\USERMANAGEMENT\\RepositoryLayer\\UserLogin\\UserLogin.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAqwBcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T06:30:03.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "EncryptionShare.cs",
+              "DocumentMoniker": "C:\\Users\\abhishek.tiwari\\Desktop\\dotNet\\USERMANAGEMENT\\SharedLayer\\EncryptionShare.cs",
+              "ToolTip": "C:\\Users\\abhishek.tiwari\\Desktop\\dotNet\\USERMANAGEMENT\\SharedLayer\\EncryptionShare.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAlwCIAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T06:07:57.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "C:\\Users\\abhishek.tiwari\\Desktop\\dotNet\\USERMANAGEMENT\\ServiceLayer\\TokenService\\TokenService.cs",
+              "ToolTip": "C:\\Users\\abhishek.tiwari\\Desktop\\dotNet\\USERMANAGEMENT\\ServiceLayer\\TokenService\\TokenService.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAABRwCEAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T04:57:15.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IMangeUserService.cs",
+              "DocumentMoniker": "C:\\Users\\abhishek.tiwari\\Desktop\\dotNet\\USERMANAGEMENT\\IServiceLayer\\IManageUserService\\IMangeUserService.cs",
+              "ToolTip": "C:\\Users\\abhishek.tiwari\\Desktop\\dotNet\\USERMANAGEMENT\\IServiceLayer\\IManageUserService\\IMangeUserService.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAMwBAAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T04:30:02.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ManageUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\abhishek.tiwari\\Desktop\\dotNet\\USERMANAGEMENT\\RepositoryLayer\\MangeUserRepository\\ManageUserRepository.cs",
+              "ToolTip": "C:\\Users\\abhishek.tiwari\\Desktop\\dotNet\\USERMANAGEMENT\\RepositoryLayer\\MangeUserRepository\\ManageUserRepository.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAlwEEAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T04:03:12.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IManageUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\abhishek.tiwari\\Desktop\\dotNet\\USERMANAGEMENT\\IRepositoryLayer\\IMangeUserRepository\\IManageUserRepository.cs",
+              "ToolTip": "C:\\Users\\abhishek.tiwari\\Desktop\\dotNet\\USERMANAGEMENT\\IRepositoryLayer\\IMangeUserRepository\\IManageUserRepository.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAMwBUAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T04:02:40.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ManageUserService.cs",
+              "DocumentMoniker": "C:\\Users\\abhishek.tiwari\\Desktop\\dotNet\\USERMANAGEMENT\\ServiceLayer\\ManageUserService\\ManageUserService.cs",
+              "ToolTip": "C:\\Users\\abhishek.tiwari\\Desktop\\dotNet\\USERMANAGEMENT\\ServiceLayer\\ManageUserService\\ManageUserService.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAlwB4AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T04:02:07.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ChangePassword.cs",
+              "DocumentMoniker": "C:\\Users\\abhishek.tiwari\\Desktop\\dotNet\\USERMANAGEMENT\\DomainLayer\\DTOs\\ChangePassword.cs",
+              "ToolTip": "C:\\Users\\abhishek.tiwari\\Desktop\\dotNet\\USERMANAGEMENT\\DomainLayer\\DTOs\\ChangePassword.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T03:58:16.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "SDirectContext.cs",
+              "DocumentMoniker": "C:\\Users\\abhishek.tiwari\\Desktop\\dotNet\\USERMANAGEMENT\\DomainLayer\\Models\\SDirectContext.cs",
+              "ToolTip": "C:\\Users\\abhishek.tiwari\\Desktop\\dotNet\\USERMANAGEMENT\\DomainLayer\\Models\\SDirectContext.cs",
+              "ViewState": "AQIAAG0AAAAAAAAAAAAlwIUAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T03:40:56.855Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\abhishek.tiwari\\Desktop\\dotNet\\USERMANAGEMENT\\USERMANAGEMENT\\wwwroot\\images\\1.jpg",
+      "PackagePath": "staticwebassets\\images\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\abhishek.tiwari\\Desktop\\dotNet\\USERMANAGEMENT\\USERMANAGEMENT\\wwwroot\\images\\1008.png",
+      "PackagePath": "staticwebassets\\images\\1008.png"
+    },
+    {
+      "Id": "C:\\Users\\abhishek.tiwari\\Desktop\\dotNet\\USERMANAGEMENT\\USERMANAGEMENT\\wwwroot\\images\\1010.jpg",
+      "PackagePath": "staticwebassets\\images\\1010.jpg"
+    },
+    {
+      "Id": "C:\\Users\\abhishek.tiwari\\Desktop\\dotNet\\USERMANAGEMENT\\USERMANAGEMENT\\wwwroot\\images\\DOC-20221031-WA0013.jpg",
+      "PackagePath": "staticwebassets\\images\\DOC-20221031-WA0013.jpg"
+    },
+    {
+      "Id": "C:\\Users\\abhishek.tiwari\\Desktop\\dotNet\\USERMANAGEMENT\\USERMANAGEMENT\\wwwroot\\images\\IMG_20230522_115116.jpg",
+      "PackagePath": "staticwebassets\\images\\IMG_20230522_115116.jpg"
+    },
+    {
+      "Id": "C:\\Users\\abhishek.tiwari\\Desktop\\dotNet\\USERMANAGEMENT\\USERMANAGEMENT\\wwwroot\\images\\Screenshot (2).png",
+      "PackagePath": "staticwebassets\\images\\Screenshot (2).png"
+    },
+    {
+      "Id": "C:\\Users\\abhishek.tiwari\\Desktop\\dotNet\\USERMANAGEMENT\\USERMANAGEMENT\\wwwroot\\images\\Screenshot (5).png",
+      "PackagePath": "staticwebassets\\images\\Screenshot (5).png"
+    },
+    {
+      "Id": "C:\\Users\\abhishek.tiwari\\Desktop\\dotNet\\USERMANAGEMENT\\USERMANAGEMENT\\wwwroot\\images\\Screenshot (6).png",
+      "PackagePath": "staticwebassets\\images\\Screenshot (6).png"
+    },
+    {
+      "Id": "C:\\Users\\abhishek.tiwari\\Desktop\\dotNet\\USERMANAGEMENT\\USERMANAGEMENT\\wwwroot\\images\\Screenshot (7).png",
+      "PackagePath": "staticwebassets\\images\\Screenshot (7).png"
+    },
+    {
+      "Id": "C:\\Users\\abhishek.tiwari\\Desktop\\dotNet\\USERMANAGEMENT\\USERMANAGEMENT\\wwwroot\\images\\Screenshot 2024-07-25 160632.jpg",
+      "PackagePath": "staticwebassets\\images\\Screenshot 2024-07-25 160632.jpg"
+    },
+    {
+      "Id": "C:\\Users\\abhishek.tiwari\\Desktop\\dotNet\\USERMANAGEMENT\\USERMANAGEMENT\\wwwroot\\images\\Screenshot 2024-07-28 003952.png",
+      "PackagePath": "staticwebassets\\images\\Screenshot 2024-07-28 003952.png"
+    },
+    {
+      "Id": "C:\\Users\\abhishek.tiwari\\Desktop\\dotNet\\USERMANAGEMENT\\USERMANAGEMENT\\wwwroot\\images\\Screenshot 2024-07-29 162401.jpg",
+      "PackagePath": "staticwebassets\\images\\Screenshot 2024-07-29 162401.jpg"
+    },
+    {
+      "Id": "C:\\Users\\abhishek.tiwari\\Desktop\\dotNet\\USERMANAGEMENT\\USERMANAGEMENT\\wwwroot\\images\\common.png",
+      "PackagePath": "staticwebassets\\images\\common.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.USERMANAGEMENT.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.USERMANAGEMENT.props",
+      "PackagePath": "build\\USERMANAGEMENT.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.USERMANAGEMENT.props",
+      "PackagePath": "buildMultiTargeting\\USERMANAGEMENT.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.USERMANAGEMENT.props",
+      "PackagePath": "buildTransitive\\USERMANAGEMENT.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
